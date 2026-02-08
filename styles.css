@@ -141,7 +141,10 @@ body {
   padding-left: 70px;
   padding-right: 70px;
 }
+.logo{
+  padding-left: 10px;
+}
 .logo span {
-  color: #ff4d5a;
+  color: #264ef0;
   padding-left: 10px;
 }
